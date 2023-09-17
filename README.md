@@ -1,4 +1,3 @@
-**Car Racing Using Genetic Algorithm**
 ![images](https://github.com/3mrology/Genetic_Algorithm_AIS201/assets/96602046/44b1b66b-d507-4ef8-85f8-7d64072df336)
 
 *Nile University | AIS201: Artificial Intelligence-2023SPRG*
